@@ -12,6 +12,13 @@ Shipping:
 
 Tax: 
 
+- 
+  rate: "0.23"
+  countries: portugal
+- 
+  rate: "0.13"
+  countries: portugal
+
 ----
 
 Paylater: admin
